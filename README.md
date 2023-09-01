@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![](https://github-readme-stats.vercel.app/api?username=mayyzena012&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayyzena012&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayyzena012&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!--
 **mayyzena012/mayyzena012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
